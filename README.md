@@ -32,6 +32,23 @@ project link: https://lec-22-testimonials-slider.vercel.app/
 
 ---
 
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
+---
+
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -60,18 +77,6 @@ Software Engineer
 📄 License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
-Amarjeet Kumar
-📚 Final Year CSE Student at Chandigarh University
-🌐 Linktree
-
 📝 Acknowledgments
 Inspired by real-world testimonial sections from modern business websites.
 
-Built for learning, practice, and portfolio enhancement.
-
-vbnet
-Copy
-Edit
-
-Let me know if you'd like to include animations, transition effects, or multiple testimonials for extension!
